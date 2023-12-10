@@ -17,12 +17,15 @@ each individual folder. More specifically: \
 
 If you use SEPX in your research, please cite it using the following BibTeX entry:
 ```
-@misc{qiu2023sepx,
-      title={Shortest Edit Path Crossover: A Theory-driven Solution to the Permutation Problem in Evolutionary Neural Architecture Search}, 
-      author={Xin Qiu and Risto Miikkulainen},
-      year={2023},
-      eprint={2210.14016},
-      archivePrefix={arXiv},
-      primaryClass={cs.NE}
+@InProceedings{qiu:icml23,
+  title={Shortest Edit Path Crossover: A Theory-driven Solution to the Permutation Problem in Evolutionary Neural Architecture Search},
+  author={Qiu, Xin and Miikkulainen, Risto},
+  booktitle={Proceedings of the 40th International Conference on Machine Learning},
+  pages={28422--28447},
+  year={2023},
+  volume={202},
+  series={Proceedings of Machine Learning Research},
+  month={23--29 Jul},
+  publisher={PMLR},
 }
 ```
