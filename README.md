@@ -8,10 +8,10 @@ Please ```pip install networkx==2.5``` first, then replace ```networkx/algorithm
 
 For other dependency requirements and specific guidelines about how to run the source codes for reproducing the experimental results, please see the README files in
 each individual folder. More specifically: \
-- ```nas-bench-101``` includes all the source codes for reproducing the main experimental results, which are using NAS-Bench-101 dataset.
-- ```nas-bench-nlp``` includes all the source codes for reproducing the experimental results related to NAS-Bench-NLP dataset.
-- ```nas-bench-301``` includes all the source codes for reproducing the experimental results related to NAS-Bench-301 dataset.
-- ```expected_improvement_heatmap``` includes all the source codes for reproducing the results of the numerical analysis in Section "Comparisons based on Theory".
+- ```nas-bench-101``` includes the guideline and all the source codes for reproducing the main experimental results, which are using NAS-Bench-101 dataset.
+- ```nas-bench-nlp``` includes the guideline and all the source codes for reproducing the experimental results related to NAS-Bench-NLP dataset.
+- ```nas-bench-301``` includes the guideline and all the source codes for reproducing the experimental results related to NAS-Bench-301 dataset.
+- ```expected_improvement_heatmap``` includes the guideline and all the source codes for reproducing the results of the numerical analysis in Section "Comparisons based on Theory".
 
 ## Citation
 
